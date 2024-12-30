@@ -1,5 +1,4 @@
-Update: In case you are looking for Wav2Lip, it is in https://github.com/Rudrabha/Wav2Lip
-# Lip2Wav
+# Lip2SpeechSynthesis
 
 *Generate high quality speech from only lip movements*. This code is part of the paper: _Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis_ published at CVPR'20.
 
@@ -11,7 +10,7 @@ Update: In case you are looking for Wav2Lip, it is in https://github.com/Rudrabh
 Recent Updates
 ----------
 - Dataset and Pre-trained models for all speakers are released!
-- Pre-trained model for multi-speaker word-level Lip2Wav model trained on the LRW dataset is released! ([multispeaker](https://github.com/Rudrabha/Lip2Wav/tree/multispeaker) branch)
+- Pre-trained model for multi-speaker word-level Lip2SpeechSynthesis model trained on the LRW dataset is released! ([multispeaker](https://github.com/Rudrabha/Lip2Wav/tree/multispeaker) branch)
 
 
 ----------
