@@ -1,5 +1,14 @@
 # Lip2SpeechSynthesis
 
+## Lip-to-Speech Synthesis Project
+Actively engaged remotely on the Lip-to-Speech Synthesis Project, working with a team of dedicated researchers and engineers. <br> 
+Developed and implemented advanced machine learning algorithms and cutting-edge speech synthesis models for the project. <br> 
+Contributed to the seamless delivery of the project, meeting requirements, strategic objectives, and ambitious timelines. <br>
+
+For verification of this project, you can view the certification using the link below: <br> Click here to verify
+
+
+
 *Generate high quality speech from only lip movements*. This code is part of the paper: _Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis_ published at CVPR'20.
 
 [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Prajwal_Learning_Individual_Speaking_Styles_for_Accurate_Lip_to_Speech_Synthesis_CVPR_2020_paper.pdf) | [[Project Page]](http://cvit.iiit.ac.in/research/projects/cvit-projects/speaking-by-observing-lip-movements) | [[Demo Video]](https://www.youtube.com/watch?v=HziA-jmlk_4)
