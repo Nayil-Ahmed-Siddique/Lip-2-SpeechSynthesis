@@ -1,5 +1,5 @@
 # Lip2SpeechSynthesis
-
+![banner](https://github.com/user-attachments/assets/0287b358-e023-4850-92a2-85f140dbb159)
 ## Lip-to-Speech Synthesis Project
 Actively engaged remotely on the Lip-to-Speech Synthesis Project, working with a team of dedicated researchers and engineers. <br> 
 Developed and implemented advanced machine learning algorithms and cutting-edge speech synthesis models for the project. <br> 
