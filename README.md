@@ -7,6 +7,8 @@ Contributed to the seamless delivery of the project, meeting requirements, strat
 
 For verification of this Internship, you can view the certification using the link below: <br> Click [here]([https://www.adrianbulat.com/downloads/python-fan/s3fd-619a316812.pth](https://v.certiefy.com/S0VZR0VOMuKLhbPK1UFnwmB3y0S_b790udQq4Cz-M4Rf2-tFrNCYn61SsrlMFcbe8XbKDXiwg15b4lHsWjuhcgwGQ_RpZgvgL7RUWyuZLNzNSyXM3ziuI0Fju5DOU5CGV_bDlh9IdpWtf7nMFTBLGLHbwkuGwwVc00hm8x51WdCMY-cF3jTg1IO4rPKXZ3dkaVjieMVj_T5AMkrWDiwkfPLHQ2rLgPERAY6K9KEOyfUmsIy8eEDCHnJ2yRrjoaCQpXKOTfU0rhOgnvEN78GEKXHAT6UM4m2LM4e-lzL5H2pztgDMXPSOZJngyCev9CMgnpHcAno6JVl08QW1jyvIhJQFGzAKxx-XJZ_ii4VbypgGCKpVMCHArhEVnITUJdY5BCNnrmoiFGT_gVcWNg==) to verify
 
+[Lip2SpeechSynthesisPresentation(ppt).pdf](https://github.com/user-attachments/files/18279698/Lip2SpeechSynthesisPresentation.ppt.pdf)
+
 *Generate high quality speech from only lip movements*. This code is part of the paper: _Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis_ published at CVPR'20.
 
 [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Prajwal_Learning_Individual_Speaking_Styles_for_Accurate_Lip_to_Speech_Synthesis_CVPR_2020_paper.pdf) | [[Project Page]](http://cvit.iiit.ac.in/research/projects/cvit-projects/speaking-by-observing-lip-movements) | [[Demo Video]](https://www.youtube.com/watch?v=HziA-jmlk_4)
